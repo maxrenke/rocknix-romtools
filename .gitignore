@@ -1,0 +1,23 @@
+# ROM files - never commit
+*.gba
+*.gb
+*.gbc
+*.nds
+*.z64
+*.n64
+*.nes
+*.sfc
+*.smd
+*.iso
+*.bin
+*.cue
+
+# Save files
+*.srm
+*.sav
+*.dsv
+*.rtc
+*.dss
+
+# The HTML catalog (large, machine-local)
+rom-catalog.html
